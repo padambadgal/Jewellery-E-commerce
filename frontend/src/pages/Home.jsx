@@ -5,8 +5,7 @@ import Footer from '../components/Footer.jsx'
 import Navbar from '../components/Navbar.jsx'
 import Featured from '../components/Featured.jsx'
 
-const Home = () => {
-
+export const Home = () => {
 
   return (
     <>
@@ -18,4 +17,3 @@ const Home = () => {
   )
 }
 
-export default Home
